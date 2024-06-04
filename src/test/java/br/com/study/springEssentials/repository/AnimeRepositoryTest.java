@@ -17,7 +17,6 @@ import java.util.Optional;
 
 @DisplayName("Tests for Anime repository")
 @Log4j2
-@ExtendWith(SpringExtension.class)
 @SpringBootTest
 class AnimeRepositoryTest {
 
